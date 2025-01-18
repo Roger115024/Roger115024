@@ -3,13 +3,6 @@
   <img src="./images/one piece GIF.gif" width="1200" alt="" />
 </a>
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31mhb4mfz45cqsuldjcobd72vthq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhb4mfz45cqsuldjcobd72vthq&count=5" alt="Spotify recently played" width="1200"  />
-  </a>
-</div>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/r.vmt05/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@vmt05110?lang=vi-VN) 
 
@@ -19,6 +12,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=Roger115024&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Roger115024&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roger115024&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div >
+  <a align="left" href="https://open.spotify.com/user/31mhb4mfz45cqsuldjcobd72vthq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhb4mfz45cqsuldjcobd72vthq&count=5" alt="Spotify recently played" width="500"  />
+  </a>
+  <a align="right" href="#" target="_blank">
+  <img src="./images/HD wallpaper_ one, piece, logo, art.jpg" width="500" height="400"  alt="" />
+</a>
+</div>
 
 ### ✍️ Random Dev Quote
 <a href="#" target="_blank">
@@ -33,7 +35,5 @@
 
 
 
-<a href="#" target="_blank">
-  <img src="./images/HD wallpaper_ one, piece, logo, art.jpg" width="1200" alt="" />
-</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
