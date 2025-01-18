@@ -22,15 +22,21 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .NIKA-signature {
           font-size: 16px;
         }
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div>
-        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay vẫn là một bản sao của ngày hôm qua?"</div>
-        <div class="trungquandev-signature">- Trungquandev Một lập trình viên -</div>
+        <div class="quotes-eng">"痛みを感じろ"</div>
+        <div class="quotes-eng">"痛みを考えろ"</div>
+		<div class="quotes-eng">"痛みを受け取れ"</div>
+		<div class="quotes-eng">"痛みを知れ"</div>
+		<div class="quotes-eng">"痛みを知らぬものに"</div>
+		<div class="quotes-eng">"本当の平和は分からん"</div>
+		<div class="quotes-eng">"ここより　世界に痛みを"</div>
+		<div class="quotes-eng">"People live as if they are about to die, and they die as if they have never lived."</div>
+        <div class="NIKA-signature">- PAIN -</div>
       </div>
 		</div>
 	</foreignObject>
